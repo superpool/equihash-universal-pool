@@ -1,0 +1,8 @@
+{
+  "name": "bitcoingold",
+  "symbol": "btg",
+  "algorithm": "equihash200_9",
+  "requireShielding": false,
+  "txfee": 0.000005
+}
+

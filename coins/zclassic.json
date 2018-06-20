@@ -1,0 +1,8 @@
+{
+  "name": "zclassic",
+  "symbol": "zcl",
+  "algorithm": "equihash200_9",
+  "requireShielding": true,
+  "peerMagic": "24e92764",
+  "txfee": 0.0004
+}

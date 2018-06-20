@@ -1,0 +1,6 @@
+{
+  "name": "bitcoinz",
+  "symbol": "btcz",
+  "algorithm": "equihash200_9",
+  "requireShielding": true
+}

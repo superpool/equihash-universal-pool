@@ -1,0 +1,7 @@
+{
+  "name": "komodo",
+  "symbol": "kmd",
+  "algorithm": "equihash200_9",
+  "requireShielding": true,
+  "txfee": 0.00005
+}
