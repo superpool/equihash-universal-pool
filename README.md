@@ -12,14 +12,21 @@ Supported algoritms
 Features
 - Support Stratum mining
 - Support vardiff
-- Detailed block stats with luck percentage and full reward
-- Separate stats for workers
+- Support workers id
 - PPLNS block reward
+- JSON API for get statistic
+- Html static frontend, easy for modification
 
 Configuration
 - Configuration is actually simple, just read it twice and think twice before changing defaults.
-- We highly recommend to use Ubuntu 16.04 LTS (all our pool tested on this OS)
+- Dev fee 1.5% of pool fee.
+
+Dependencies:
+- Ubuntu 16.04 LTS
+- Redis-server
+- Nodejs
+- Coin daemon
 
 Credits
-- modifed by AME Corp
-- based on z-nomp
+- Modifed by AME Corp
+- Based on z-nomp
