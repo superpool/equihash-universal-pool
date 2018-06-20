@@ -10,7 +10,7 @@ Supported algoritms
 - Equihash 200 9
 
 Features
-- Support Stratum mining
+- Support sStratum mining
 - Support vardiff
 - Support workers id
 - PPLNS block reward
