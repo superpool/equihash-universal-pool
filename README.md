@@ -36,6 +36,7 @@ Configuration
 
 Dependencies:
 - Ubuntu 16.04 LTS
+- Nginx
 - Redis-server
 - Nodejs
 - Coin daemon
